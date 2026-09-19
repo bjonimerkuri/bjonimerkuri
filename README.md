@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💼 Frontend Developer with **5+ years** of professional experience
+- 💼 Senior Software Developer with **5+ years** of professional experience
 - ⚡ Passionate about reactive programming, state management, and great UX
 - 🔭 Currently working on personal projects with **Hono.js** & **Cloudflare Workers**
 - 🌱 Always exploring the edges of the modern web stack
