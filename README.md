@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bjoni Merkuri 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · 5+ Years of Experience</b><br/>
+  <b>Software Engineer · 5+ Years of Experience</b><br/>
   Building clean, scalable, and performant web applications
 </p>
 
