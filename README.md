@@ -1,47 +1,37 @@
-<h1 align="center">Hi, I'm Bjoni Merkuri 👋</h1>
+# Hi, I'm Bjoni 👋
 
-<p align="center">
-  <b>Software Engineer · 5+ Years of Experience</b><br/>
-  Building clean, scalable, and performant web applications
-</p>
+### Product Engineer · React · Angular · TypeScript · Full-Stack Web
 
----
+Software engineer with 5+ years of experience building enterprise and fintech web products.
 
-### 🚀 About Me
+I work primarily with **Angular, React, Next.js and TypeScript**, with experience across APIs, state management, component architecture, testing and production delivery.
 
-- 💼 Senior Software Developer with **5+ years** of professional experience
-- ⚡ Passionate about reactive programming, state management, and great UX
-- 🔭 Currently working on personal projects with **Hono.js** & **Cloudflare Workers**
-- 🌱 Always exploring the edges of the modern web stack
+I'm currently expanding further into **full-stack TypeScript**, building backend and serverless applications with **Node.js, Hono and Cloudflare Workers**.
 
----
+### What I build
 
-### 🛠️ Tech Stack
+* 🧩 Product-focused web applications with React and Next.js
+* ⚙️ TypeScript APIs and serverless services
+* 🎨 Reusable component systems and design systems
+* ☁️ Cloudflare Workers and modern web infrastructure
+* 🤖 AI-assisted developer tools and workflows
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=reactivex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hono.js-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
+### Tech
 
----
+**Frontend:** React, Next.js, TypeScript, Angular, Redux Toolkit, React Query, RxJS
 
+**Backend:** Node.js, Hono, NestJS, REST, GraphQL
 
+**Data:** PostgreSQL, MongoDB
 
-### 🤝 Connect with Me
+**Testing:** Jest, Cypress, E2E testing
 
-<p>
-  <a href="https://www.linkedin.com/in/bjoni-merkuri-739630134/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+**Cloud & Delivery:** Cloudflare Workers, Azure, CI/CD
 
----
+**AI:** Claude Code, AI-assisted development
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+### Featured Projects
+
+Check out the pinned repositories below for examples of my work across frontend, APIs, serverless TypeScript and developer tooling.
+
+📫 **LinkedIn:** [linkedin.com/in/bjoni-merkuri](https://linkedin.com/in/bjoni-merkuri)
