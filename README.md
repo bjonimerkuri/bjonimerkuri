@@ -2,7 +2,7 @@
 
 ### Product Engineer · React · Angular · TypeScript · Full-Stack Web
 
-Software engineer with 5+ years of experience building enterprise and fintech web products.
+Software engineer with 5 years of experience building enterprise and fintech web products.
 
 I work primarily with **Angular, React, Next.js and TypeScript**, with experience across APIs, state management, component architecture, testing and production delivery.
 
